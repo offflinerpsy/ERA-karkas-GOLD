@@ -1,0 +1,5 @@
+{
+  "name": "Neon Glass Features Block",
+  "description": "A high-fidelity implementation of a dark-themed feature section with glassmorphism cards, neon glow effects, and reflections using Tailwind CSS.",
+  "requestFramePermissions": []
+}
